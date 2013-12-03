@@ -1,4 +1,4 @@
-/* Copyright (c) 2009, Steve Maresca/Zentific LLC */
+/* Copyright (c) 2009-2013, Steve Maresca/Zentific LLC */
 
 #include "zentific.h"
 

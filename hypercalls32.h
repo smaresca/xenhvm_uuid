@@ -3,7 +3,7 @@
  * 
  * Linux-specific hypervisor handling.
  * 
- * Copyright (c) 2009, Steve Maresca/Zentific LLC 
+ * Copyright (c) 2009-2013, Steve Maresca/Zentific LLC 
  * Copyright (c) 2002-2004, K A Fraser
  * 
  * This program is free software; you can redistribute it and/or
